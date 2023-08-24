@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>**Web Development**: Frontend, backend, and everything in between! Web technologies fascinate me, and I'm always up for exploring new frameworks and languages.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
