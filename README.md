@@ -1,4 +1,4 @@
-### Hello world👋 I'm Susan Maina.
+### Hello world👋 I'm Susan Maina.(wanjicode)
 
 # 💫 About Me:
 🔭 I’m currently working on a project to improve Somali's Immunization Rate.<br>👯 I’m looking to collaborate on Impactful Projects,frontend,backend, and everything in between!<br>🌱 I’m a lifelong learner currently learning Data Analytics, Next, React and Django.<br>💬 Ask me about Product management and UX Research.<br>⚡ Fun fact: When I'm not coding:<br>                      - I'm planning events! 🚀 Think workshops, meetups.<br>                      - Or just having conversations! I'm always up for a chat.![Fun Tech GIF](https://example.com/fun-tech.gif)<br>![Fun Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br>
