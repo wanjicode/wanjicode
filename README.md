@@ -1,7 +1,7 @@
 ### Hello world👋 I'm Susan Maina (wanjicode).
 
 # 💫 About Me
-🔭 I’m currently working on venturing into the data side of tech and exploring product management but Imma still code daily.<br>👯 I’m looking to collaborate on Impactful Projects,frontend,backend, and everything techish in between!<br>🌱 I’m a lifelong learner currently learning Data science, Next, React and Django.<br>💬 Ask me about Product management and UX Research.<br>⚡ Fun fact: When I'm not coding:<br>                      - I'm planning events! 🚀 Think workshops, meetups anyday <br>                      - Or just having conversations and connecting with people! I'm always up for a chat.![Fun Tech GIF](https://example.com/fun-tech.gif)<br>![Fun Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br>
+🔭 I’m currently venturing into the data side of tech and exploring product management but Imma still code daily.<br>👯 I’m looking to collaborate on Impactful Projects,frontend,backend, and everything techish in between!<br>🌱 I’m a lifelong learner currently learning Data science, Next, React and Django.<br>💬 Ask me about Product management and UX Research.<br>⚡ Fun fact: When I'm not coding:<br>                      - I'm planning events! 🚀 Think workshops, meetups anyday <br>                      - Or just having conversations and connecting with people! I'm always up for a chat.![Fun Tech GIF](https://example.com/fun-tech.gif)<br>![Fun Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br>
 
 
 ## 🌐 Socials:
