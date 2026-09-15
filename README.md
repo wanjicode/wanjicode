@@ -1,7 +1,7 @@
 ### Hello world👋 I'm Susan Wanjiku Maina (wanjicode).
 
 # 💫 About Me
-🔭 I’m currently contributing to Liberapay, an open source project I picked for hactoberfest. I am so excited for this.<br>👯 I’m looking to collaborate on Impactful Projects, frontend,backend, and everything in between!<br>🌱 I’m a lifelong learner currently learning Data Science Ml and AI.<br>💬 Ask me about Product management and UX Research.<br>⚡ Fun fact: When I'm not coding:<br>                      - I'm planning and attending events! 🚀 Think workshops, meetups  <br>                      - Or just having conversations and connecting with people! I'm always up for a chat anyday.![Fun Tech GIF](https://example.com/fun-tech.gif)<br>![Fun Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br>
+🔭 I’m currently upskilling in Site Reliabiolity Engineering. I am so excited for this.<br>👯 I’m looking to collaborate on Impactful Projects, frontend,backend, and everything in between!<br>🌱 I’m a lifelong learner currently learning AI (cliche but yeah).<br>💬 Ask me about Product management and UX Research.<br>⚡ Fun fact: When I'm not coding:<br>                      - I'm planning and attending events! 🚀 Think workshops, meetups  <br>                      - Or just having conversations and connecting with people! I'm always up for a chat anyday.![Fun Tech GIF](https://example.com/fun-tech.gif)<br>![Fun Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)<br>
 
 
 ## 🌐 Socials:
